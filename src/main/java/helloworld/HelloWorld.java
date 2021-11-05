@@ -3,7 +3,7 @@ package helloworld;
 public class HelloWorld {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Jenkins welome pole scm");
+		System.out.println("Hello Jenkins welome pole scm change");
 	}
 
 }
